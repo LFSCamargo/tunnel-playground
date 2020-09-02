@@ -7,7 +7,7 @@ import { TunnelProvider } from '@tunneljs/tunnel';
 import { storesToPersist } from './tunnel';
 
 ReactDOM.render(
-  <TunnelProvider persist={false} storesToPersist={storesToPersist} storage={localStorage}>
+  <TunnelProvider persist={true} storesToPersist={storesToPersist} storage={localStorage}>
     <App />
   </TunnelProvider>,
   document.getElementById('root') as HTMLElement
