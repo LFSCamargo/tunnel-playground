@@ -28,10 +28,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@tunneljs/tunnel@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@tunneljs/tunnel/-/tunnel-1.1.0.tgz#c07a004f01d397c42c6132cb26311d95a11b714e"
-  integrity sha512-bhF0TomgoRD/TOVYU4R8/sWmfN5Mpwky9rpSiYJTRYUunQyq2EH4E6slI/cjqM/E89v3PZNFJ71V35EaM93M6w==
+"@tunneljs/tunnel@^1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@tunneljs/tunnel/-/tunnel-1.1.3.tgz#a6bec64505b178fe121220bde59ff7178c3a0f51"
+  integrity sha512-V19nI8+xpUIOiHrOxzJm4dMZ2xFlVH9TV5tfDtXFKAh5NN0Rb1zviDT6TrSdCVeRem3GpFOoNiCO4+pQHW3g0w==
   dependencies:
     fbemitter "^2.1.1"
     ramda "^0.27.1"
